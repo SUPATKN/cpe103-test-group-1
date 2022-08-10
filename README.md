@@ -1,3 +1,4 @@
 # cpe103-test-group-1
 
-supatkorn pundontong
+Supatkorn Pundontong
+Picharpa Eiamkanitchart
